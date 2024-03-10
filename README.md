@@ -1,4 +1,6 @@
-# DigitalARK-Agency-DM![Screenshot_10-3-2024_114148_jolly-bubblegum-d047b8 netlify app](https://github.com/SudhamaAnonymous/DigitalARK-Agency-DM/assets/152418947/bd38970e-6347-4ad5-8db5-331d5e99dcde)
+# DigitalARK-Agency-DM
+Live Preview-:https://jolly-bubblegum-d047b8.netlify.app/
+![Screenshot_10-3-2024_114148_jolly-bubblegum-d047b8 netlify app](https://github.com/SudhamaAnonymous/DigitalARK-Agency-DM/assets/152418947/bd38970e-6347-4ad5-8db5-331d5e99dcde)
 
 
 This is a Next.js project bootstrapped with create-next-app.
